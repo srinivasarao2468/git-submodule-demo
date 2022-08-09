@@ -1,0 +1,3 @@
+[submodule "us/m1e2/remote"]
+	path = us/m1e2/remote
+	url = https://github.com/srinivasarao2468/terraform-script.git
