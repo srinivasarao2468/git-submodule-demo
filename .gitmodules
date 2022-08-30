@@ -1,0 +1,6 @@
+[submodule "sample/simple/remote"]
+	path = sample/simple/remote
+	url = https://github.com/srinivasarao2468/git-submodules.git
+[submodule "simple/sample/remote"]
+	path = simple/sample/remote
+	url = https://github.com/srinivasarao2468/git-submodules.git
