@@ -11,3 +11,10 @@
 # Example command
 git submodule update --remote
 ```
+
+### 
+```
+# Example command
+git submodule update --init --recursive
+```
+![git submodule update](https://github.com/srinivasarao2468/git-submodule-demo/blob/master/git%20submodule%20init.png)
